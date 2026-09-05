@@ -109,13 +109,6 @@ multiply
 */
 char *multiply( char *num1, char *num2 ) {	
 	
-	char *num1 = 'A';
-	char *num2 = 'B';
-	
-	'7' = 55;
-	'0' = 48;
-	
-	'7' - '0' = 7; 
 }
 
 /*
